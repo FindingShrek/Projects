@@ -29,6 +29,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="400" alt="Prototype_1" />
+  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="300" alt="Prototype_1" />
   <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
 </p>
