@@ -24,7 +24,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Uses a mobile app map that monitor the current position of the transmitter real time.
 ### Images and Video:3
 <p align="center">
-  <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
+  <a href="https://www.youtube.com/shorts/BjV5wS_tZSg" target="_blank">
     <img src="imagesAndVideos/imageRescueMe.png" height="355" />
   </a>
   <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
