@@ -1,7 +1,7 @@
 # My Projects
 This repo is for showcasing my personal projects and documenting the tools, technologies, and concepts I've worked with.
-## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
-1. 
+
+1. [RESCUEME An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
 2. d
 3. df
 4. df
@@ -53,6 +53,8 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 50. g
 51. df
 
+
+## RESCUEME An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
 - C++
 - React Native
@@ -62,6 +64,3 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - LoRa – RYLR896
 - ESP8266 NODE MCU
 - NEO-M8N GPS
-
-
-[RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme:-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
