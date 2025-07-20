@@ -23,6 +23,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Maximum of 16 km radius range with line of sight (LOS).
 - Uses a mobile app map that monitor the current position of the transmitter real time.
 ### Images and Video:3
-![[rescueme.mp4]]
+[![Testing](https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/imageRescueMe.png)](https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/rescueme.mp4)
 
 
