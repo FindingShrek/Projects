@@ -22,11 +22,11 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Transmitter didn’t need any internet connections to send coordinates but need a line of sight (LOS) for clear communication between two devices and clear sky to receive a coordinate from satellite.
 - Maximum of 16 km radius range with line of sight (LOS).
 - Uses a mobile app map that monitor the current position of the transmitter real time.
-### Images and Video:3
+### Images and Video:
 <p align="center">
+  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
+  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg" target="_blank">
     <img src="imagesAndVideos/imageRescueMe.png" height="355" />
   </a>
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
 </p>
