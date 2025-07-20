@@ -54,7 +54,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 51. df
 
 
-## RESCUEME An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
+## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
 - C++
 - React Native
