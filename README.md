@@ -25,7 +25,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 <p align="center">
   <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
   <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
-  <a href="https://www.youtube.com/shorts/BjV5wS_tZSg" target="_blank">
+  <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
     <img src="imagesAndVideos/imageRescueMe.png" height="355" />
   </a>
 </p>
@@ -42,3 +42,10 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Deep linking from notifications to specific app screens.
 - Offline support with encrypted local storage and caching (MMKV/AsyncStorage).
 - Firebase Firestore sync and user authentication.
+### Images and Video:
+<p align="center">
+  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
+  <a href="https://www.youtube.com/shorts/tnsJoVOPMWs">
+    <img src="imagesAndVideos/imageRescueMe.png" height="355" />
+  </a>
+</p>
