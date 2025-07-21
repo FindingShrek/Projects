@@ -60,6 +60,9 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095008_My%20Priorities.png" height="300" alt="img_14" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095021_My%20Priorities.png" height="300" alt="img_15" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
+  <a href="https://www.youtube.com/shorts/tnsJoVOPMWs">
+    <img src="imagesAndVideos/myPriorities/video_01.png" height="300" />
+  </a>
   <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
     <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" />
   </a>
