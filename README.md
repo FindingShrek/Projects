@@ -104,6 +104,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   <img src="imagesAndVideos/schedulingSystem/image_03.png" height="200" alt="img_03" />
   <img src="imagesAndVideos/schedulingSystem/image_04.png" height="200" alt="img_04" />
   <a href="https://www.youtube.com/watch?v=EN79EtkQbcE">
-    <img src="imagesAndVideos/schedulingSystem/image_02.png" height="300" />
+    <img src="imagesAndVideos/schedulingSystem/thumbnail.png" height="300" />
   </a>
 </p>
