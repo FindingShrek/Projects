@@ -3,6 +3,8 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 
 1. [RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
 2. [My Priorities - Mobile Notes App with Offline/Online Storage](#my-priorities---mobile-notes-app-with-offline-online-storage)
+3. [3DPrinting - Landing Page Website for Business](#3dprinting---landing-page-website-for-business)
+4. [Scheduling System](#scheduling-system)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
@@ -25,6 +27,12 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 <p align="center">
   <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
   <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250515-062954_Permission_controller.png" height="300" alt="app_01" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120521_Photos.png" height="300" alt="app_02" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120531_Photos.png" height="300" alt="app_03" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120550_Photos.png" height="300" alt="app_04" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120600_Photos.png" height="300" alt="app_05" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120606_Photos.png" height="300" alt="app_06" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
     <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="300" />
   </a>
@@ -65,5 +73,34 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   </a>
   <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
     <img src="imagesAndVideos/myPriorities/video_02.png" height="300" />
+  </a>
+</p>
+
+## 3DPrinting - Landing Page Website for Business
+- Website: https://findingshrek.github.io/3DPrintingLandingPage/
+- Source Code : https://github.com/FindingShrek/3DPrintingLandingPage
+### Tech Stack Used: 
+-  React
+-  JavaScript
+-  Vue
+-  Tailwind CSS
+### Description
+- Responsive landing page optimized for all devices (mobile, tablet, desktop).
+### Images and Video:
+
+## Scheduling System
+- Source Code: https://github.com/FindingShrek/CalendarApointment
+### Tech Stack Used: 
+- vb.net
+### Description
+- Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
+- Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
+- Reminders: Ssending email reminder.
+- Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
+### Images and Video:
+<p align="center">
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
+  <a href="https://www.youtube.com/watch?v=EN79EtkQbcE">
+    <img src="imagesAndVideos/schedulingSystem/image_02.png" height="300" />
   </a>
 </p>
