@@ -25,6 +25,12 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 <p align="center">
   <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
   <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250515-062954_Permission_controller.png" height="300" alt="app_01" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120521_Photos.png" height="300" alt="app_02" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120531_Photos.png" height="300" alt="app_03" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120550_Photos.png" height="300" alt="app_04" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120600_Photos.png" height="300" alt="app_05" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120606_Photos.png" height="300" alt="app_06" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
     <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="300" />
   </a>
