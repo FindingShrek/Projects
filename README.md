@@ -23,10 +23,10 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Uses a mobile app map that monitor the current position of the transmitter real time.
 ### Images and Video:
 <p align="center">
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
+  <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
-    <img src="imagesAndVideos/imageRescueMe.png" height="355" />
+    <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="300" />
   </a>
 </p>
 
@@ -44,8 +44,23 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 <p align="center">
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
-  <a href="https://www.youtube.com/shorts/tnsJoVOPMWs">
-    <img src="imagesAndVideos/imageRescueMe.png" height="355" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="300" alt="img_01" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094756_My%20Priorities.png" height="300" alt="img_02" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094824_My%20Priorities.png" height="300" alt="img_03" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094828_My%20Priorities.png" height="300" alt="img_04" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094835_My%20Priorities.png" height="300" alt="img_05" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094837_My%20Priorities.png" height="300" alt="img_06" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094842_My%20Priorities.png" height="300" alt="img_07" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" alt="img_08" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094849_My%20Priorities.png" height="300" alt="img_09" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094926_My%20Priorities.png" height="300" alt="img_10" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094940_My%20Priorities.png" height="300" alt="img_11" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094951_My%20Priorities.png" height="300" alt="img_12" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095004_My%20Priorities.png" height="300" alt="img_13" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095008_My%20Priorities.png" height="300" alt="img_14" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095021_My%20Priorities.png" height="300" alt="img_15" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
+  <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
+    <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" />
   </a>
 </p>
