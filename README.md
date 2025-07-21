@@ -99,7 +99,10 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
 ### Images and Video:
 <p align="center">
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
+  <img src="imagesAndVideos/schedulingSystem/image_01.png" height="200" alt="img_01" />
+  <img src="imagesAndVideos/schedulingSystem/image_02.png" height="200" alt="img_02" />
+  <img src="imagesAndVideos/schedulingSystem/image_03.png" height="200" alt="img_03" />
+  <img src="imagesAndVideos/schedulingSystem/image_04.png" height="200" alt="img_04" />
   <a href="https://www.youtube.com/watch?v=EN79EtkQbcE">
     <img src="imagesAndVideos/schedulingSystem/image_02.png" height="300" />
   </a>
