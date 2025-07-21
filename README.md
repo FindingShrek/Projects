@@ -45,6 +45,14 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 ### Images and Video:
 <p align="center">
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="355" alt="img_01" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094756_My%20Priorities.png" height="355" alt="img_02" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094824_My%20Priorities.png" height="355" alt="img_03" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094828_My%20Priorities.png" height="355" alt="img_04" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094835_My%20Priorities.png" height="355" alt="img_05" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094837_My%20Priorities.png" height="355" alt="img_06" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094842_My%20Priorities.png" height="355" alt="img_07" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="355" alt="img_08" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094849_My%20Priorities.png" height="355" alt="img_09" />
   <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
     <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="355" />
   </a>
