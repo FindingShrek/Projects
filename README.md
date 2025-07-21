@@ -86,7 +86,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 -  Tailwind CSS
 ### Description
 - Responsive landing page optimized for all devices (mobile, tablet, desktop).
-### Images and Video:
 
 ## Scheduling System
 - Source Code: https://github.com/FindingShrek/CalendarApointment
