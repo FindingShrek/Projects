@@ -5,6 +5,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 2. [My Priorities - Mobile Notes App with Offline/Online Storage](#my-priorities---mobile-notes-app-with-offline-online-storage)
 3. [3DPrinting - Landing Page Website for Business](#3dprinting---landing-page-website-for-business)
 4. [Scheduling System](#scheduling-system)
+5. [Screen Recorder - Desktop](#screen-recorder---desktop)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
@@ -86,7 +87,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 -  Tailwind CSS
 ### Description
 - Responsive landing page optimized for all devices (mobile, tablet, desktop).
-### Images and Video:
 
 ## Scheduling System
 - Source Code: https://github.com/FindingShrek/CalendarApointment
@@ -105,5 +105,33 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   <img src="imagesAndVideos/schedulingSystem/image_04.png" height="200" alt="img_04" />
   <a href="https://www.youtube.com/watch?v=EN79EtkQbcE">
     <img src="imagesAndVideos/schedulingSystem/thumbnail.png" height="300" />
+  </a>
+</p>
+
+## Screen Recorder - Desktop
+- Source Code: https://github.com/FindingShrek/ScreenRecorder_Python
+### Tech Stack Used: 
+-  Python
+-  PyQt5
+### Advantages:
+- User-Friendly Interaction: GUIs provide a more intuitive and user-friendly way for users to interact with your application compared to other screen recorders that need to set up or customize the settings before they can record smoothly.
+- Ease of Use: it only has one button for start recording and stop recording that even child can use it or elders that is not familiar with today’s technology.
+- Cross-Platform Compatibility: Many GUI frameworks for Python, such as Tkinter and PyQt, are cross-platform, meaning your application can run on different operating systems without major modifications.
+- Lightweight: can run on most devices even on a low spec CPU or GPU. Unlike any other screen recorder that has minimum requirements to run smoothly, this application was designed to run on most of the low specs or slow computer and it didn’t eat much storage on your device.
+- Open-source: Open-source applications typically have their source code available for inspection by anyone. This transparency allows users to understand how the software works, which builds trust and fosters collaboration. In contrast, closed-source applications keep their source code proprietary, limiting users' ability to verify the software's behavior or security.
+
+### Disadvantages:
+- Platform Differences: Despite cross-platform compatibility, there may still be subtle differences in the behavior and appearance of application on different operating systems, requiring additional testing and optimization.
+- Focused Functionality: only function to record a screen, cannot capture a device sound and don’t have a microphone. Unlike other applications, this app cannot customize what microphone to use or what sounds to capture.
+- Unoptimized Frame Rate: creating applications by using Python Language is a bad option because of its slow performance, primarily due to its dynamic nature and versatility.
+- Limited Options: some devices have a multiple GPU and monitor, but this screen recorder can only detect one monitor and one GPU. It only chooses the primary monitor and the integrated GPU, meaning that the devices or users cannot fully optimize its performance when recording in high graphics.
+- Minimalist UI: it does not have an impact to user or not that attractive for user because of limited functionality and usage.
+
+### Images and Video:
+<p align="center">
+  <img src="imagesAndVideos/screenRecorder/image_01.png" height="200" alt="img_01" />
+  <img src="imagesAndVideos/screenRecorder/image_02.png" height="200" alt="img_02" />
+  <a href="https://www.youtube.com/watch?v=apmtPGGl8xU">
+    <img src="imagesAndVideos/screenRecorder/thumbnail.png" height="200" />
   </a>
 </p>
