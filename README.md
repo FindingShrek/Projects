@@ -3,8 +3,8 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 
 1. [RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
 2. [My Priorities - Mobile Notes App with Offline/Online Storage](#my-priorities---mobile-notes-app-with-offline-online-storage)
-2. [Scheduling System](#scheduling-system)
-3. [3DPrinting - Landing Page Website for Business](3dprinting---landing-page-website-for-business)
+3. [3DPrinting - Landing Page Website for Business](#3dprinting---landing-page-website-for-business)
+4. [Scheduling System](#scheduling-system)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
@@ -76,7 +76,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   </a>
 </p>
 
-## Sceduling System
+## 3DPrinting - Landing Page Website for Business
 ### Tech Stack Used: 
 -  React
 -  JavaScript
@@ -90,7 +90,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 
-## 3DPrinting - Landing Page Website for Business
+## Scheduling System
 ### Tech Stack Used: 
 - vb.net
 ### Description
