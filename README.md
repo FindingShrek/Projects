@@ -85,20 +85,22 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 -  Vue
 -  Tailwind CSS
 ### Description
-- Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
-- Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
-- Automatic Reminders: It also helps in sending email reminder within a near deadline.
-- Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
-- Firebase Firestore sync and user authentication.
+- Responsive landing page optimized for all devices (mobile, tablet, desktop).
 ### Images and Video:
 
 ## Scheduling System
+- Source Code: https://github.com/FindingShrek/CalendarApointment
 ### Tech Stack Used: 
 - vb.net
 ### Description
 - Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
 - Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
-- Automatic Reminders: It also helps in sending email reminder within a near deadline.
+- Reminders: Ssending email reminder.
 - Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
-- Firebase Firestore sync and user authentication.
 ### Images and Video:
+<p align="center">
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
+  <a href="https://www.youtube.com/watch?v=EN79EtkQbcE">
+    <img src="imagesAndVideos/schedulingSystem/image_02.png" height="300" />
+  </a>
+</p>
