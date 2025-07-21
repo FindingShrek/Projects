@@ -64,6 +64,6 @@ This repo is for showcasing my personal projects and documenting the tools, tech
     <img src="imagesAndVideos/myPriorities/video_01.png" height="300" />
   </a>
   <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
-    <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" />
+    <img src="imagesAndVideos/myPriorities/video_02.png" height="300" />
   </a>
 </p>
