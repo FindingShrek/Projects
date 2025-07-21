@@ -44,7 +44,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 <p align="center">
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="300" alt="img_01" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="355" alt="img_01" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094756_My%20Priorities.png" height="300" alt="img_02" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094824_My%20Priorities.png" height="300" alt="img_03" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094828_My%20Priorities.png" height="300" alt="img_04" />
