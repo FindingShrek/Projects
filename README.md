@@ -53,6 +53,13 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094842_My%20Priorities.png" height="300" alt="img_07" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" alt="img_08" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094849_My%20Priorities.png" height="300" alt="img_09" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094926_My%20Priorities.png" height="300" alt="img_10" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094940_My%20Priorities.png" height="300" alt="img_11" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094951_My%20Priorities.png" height="300" alt="img_12" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095004_My%20Priorities.png" height="300" alt="img_13" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095008_My%20Priorities.png" height="300" alt="img_14" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-095021_My%20Priorities.png" height="300" alt="img_15" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-100130_Pixel%20Launcher.png" height="300" alt="img_16" />
   <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
     <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="300" />
   </a>
