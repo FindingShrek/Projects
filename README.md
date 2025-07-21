@@ -3,6 +3,8 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 
 1. [RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
 2. [My Priorities - Mobile Notes App with Offline/Online Storage](#my-priorities---mobile-notes-app-with-offline-online-storage)
+2. [Scheduling System](#scheduling-system)
+3. [3DPrinting - Landing Page Website for Business](3dprinting---landing-page-website-for-business)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
@@ -73,3 +75,28 @@ This repo is for showcasing my personal projects and documenting the tools, tech
     <img src="imagesAndVideos/myPriorities/video_02.png" height="300" />
   </a>
 </p>
+
+## Sceduling System
+### Tech Stack Used: 
+-  React
+-  JavaScript
+-  Vue
+-  Tailwind CSS
+### Description
+- Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
+- Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
+- Automatic Reminders: It also helps in sending email reminder within a near deadline.
+- Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
+- Firebase Firestore sync and user authentication.
+### Images and Video:
+
+## 3DPrinting - Landing Page Website for Business
+### Tech Stack Used: 
+- vb.net
+### Description
+- Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
+- Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
+- Automatic Reminders: It also helps in sending email reminder within a near deadline.
+- Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
+- Firebase Firestore sync and user authentication.
+### Images and Video:
