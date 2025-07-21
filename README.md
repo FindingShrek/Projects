@@ -77,6 +77,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 </p>
 
 ## 3DPrinting - Landing Page Website for Business
+link: https://findingshrek.github.io/3DPrintingLandingPage/
 ### Tech Stack Used: 
 -  React
 -  JavaScript
