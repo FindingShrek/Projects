@@ -23,10 +23,10 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Uses a mobile app map that monitor the current position of the transmitter real time.
 ### Images and Video:
 <p align="center">
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype2.png" height="1080" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/prototype.png" height="355" alt="Prototype_1" />
+  <img src="imagesAndVideos/rescueMe/prototype2.png" height="1080" alt="Prototype_2" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
-    <img src="imagesAndVideos/imageRescueMe.png" height="355" />
+    <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="355" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 <p align="center">
-  <img src="https://github.com/FindingShrek/Projects/blob/main/imagesAndVideos/prototype.png" height="355" alt="Prototype_1" />
-  <a href="https://www.youtube.com/shorts/tnsJoVOPMWs">
-    <img src="imagesAndVideos/imageRescueMe.png" height="355" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="355" alt="img_01" />
+  <a href="https://www.youtube.com/shorts/2LgiqArXqZY">
+    <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094845_My%20Priorities.png" height="355" />
   </a>
 </p>
