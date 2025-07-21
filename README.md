@@ -24,7 +24,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 ### Images and Video:
 <p align="center">
   <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
-  <img src="imagesAndVideos/rescueMe/prototype2.png" height="900" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
   <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
     <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="300" />
   </a>
