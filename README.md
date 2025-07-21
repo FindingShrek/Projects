@@ -2,8 +2,7 @@
 This repo is for showcasing my personal projects and documenting the tools, technologies, and concepts I've worked with.
 
 1. [RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
-2. 
-
+2. [My Priorities - Mobile Notes App with Offline/Online Storage](#my-priorities---mobile-notes-app-with-offline/online-storage)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
 ### Technology Used:
@@ -30,3 +29,16 @@ This repo is for showcasing my personal projects and documenting the tools, tech
     <img src="imagesAndVideos/imageRescueMe.png" height="355" />
   </a>
 </p>
+
+## My Priorities - Mobile Notes App with Offline/Online Storage
+### Tech Stack Used: 
+- React Native
+- Expo
+- TypeScript
+- Firebase
+  ### Description
+- Categorized note management (e.g., Work, Health, Finance). Types of notes (e.g., Quick Note, Daily, Reminder, Priorities).
+- Scheduled alarms & reminders using Notifee.
+- Deep linking from notifications to specific app screens.
+- Offline support with encrypted local storage and caching (MMKV/AsyncStorage).
+- Firebase Firestore sync and user authentication.
