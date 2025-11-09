@@ -53,14 +53,13 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 <p align="center">
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094752_My%20Priorities.png" height="300" alt="img_01" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094756_My%20Priorities.png" height="300" alt="img_02" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094824_My%20Priorities.png" height="300" alt="img_03" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094828_My%20Priorities.png" height="300" alt="img_04" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094835_My%20Priorities.png" height="300" alt="img_05" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20250721-094837_My%20Priorities.png" height="300" alt="img_06" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105630_My_Priorities.png" height="300" alt="img_01" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105632_My_Priorities.png" height="300" alt="img_02" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105701_My_Priorities.png" height="300" alt="img_03" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105730_My_Priorities.png" height="300" alt="img_04" />
+  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105734_My_Priorities.png" height="300" alt="img_06" />
   <a href="https://youtu.be/uTohjizQyso">
-    <img src="imagesAndVideos/myPriorities/video_02.png" height="300" />
+    <img src="imagesAndVideos/myPriorities/video_01.png" height="300" />
   </a>
 </p>
 
