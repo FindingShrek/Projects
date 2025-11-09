@@ -47,9 +47,9 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Firebase
 ### Description
 - Categorized note management (e.g., Work, Health, Finance). Types of notes (e.g., Quick Note, Daily, Reminder, Priorities).
-- Scheduled alarms & reminders using Notifee.
+- Scheduled alarms & reminders.
 - Deep linking from notifications to specific app screens.
-- Offline support with encrypted local storage and caching (MMKV/AsyncStorage).
+- Offline support with encrypted local storage and caching (MMKV).
 - Firebase Firestore sync and user authentication.
 ### Images and Video:
 <p align="center">
@@ -58,7 +58,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
   <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105701_My_Priorities.png" height="300" alt="img_03" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105730_My_Priorities.png" height="300" alt="img_04" />
   <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105734_My_Priorities.png" height="300" alt="img_06" />
-  <a href="https://youtu.be/R45E1Vw">
+  <a href="https://youtu.be/PTFM58bcLB0">
     <img src="imagesAndVideos/myPriorities/video_01.png" height="300" />
   </a>
 </p>
