@@ -1,4 +1,5 @@
 # My Projects
+
 This repo is for showcasing my personal projects and documenting the tools, technologies, and concepts I've worked with.
 
 1. [RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology](#rescueme-an-innovative-real-time-wearable-emergency-mobile-application-utilizing-lora-technology)
@@ -8,7 +9,9 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 5. [Screen Recorder - Desktop](#screen-recorder---desktop)
 
 ## RESCUEME: An Innovative Real-Time Wearable Emergency Mobile Application Utilizing LoRa Technology
+
 ### Technology Used:
+
 - C++
 - React Native
 - Expo
@@ -17,14 +20,18 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - LoRa – RYLR896
 - ESP8266 NODE MCU
 - NEO-M8N GPS
+
 ### Description:
+
 - Develop a prototype device that can be used in emergency and search and rescue operations.
 - Consists of GPS tracking device(receiver), transmitter device and mobile app map that can be used in search and rescue operation.
 - A transmitter device that uses uBlox GPS technology that send coordinates via radio frequency using LoRa - RYLR896 and ESP8266 NODE MCU as controller.
 - Transmitter didn’t need any internet connections to send coordinates but need a line of sight (LOS) for clear communication between two devices and clear sky to receive a coordinate from satellite.
 - Maximum of 16 km radius range with line of sight (LOS).
 - Uses a mobile app map that monitor the current position of the transmitter real time.
+
 ### Images and Video:
+
 <p align="center">
   <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
   <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
@@ -40,50 +47,74 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 </p>
 
 ## My Priorities - Mobile Notes App with Offline-Online Storage
-### Tech Stack Used: 
+
+### Tech Stack Used:
+
 - React Native
 - Expo
 - TypeScript
 - Firebase
+
 ### Description
+
 - Categorized note management (e.g., Work, Health, Finance). Types of notes (e.g., Quick Note, Daily, Reminder, Priorities).
-- Scheduled alarms & reminders.
+- Scheduled alarms & reminders using Notifee.
 - Deep linking from notifications to specific app screens.
-- Offline support with encrypted local storage and caching (MMKV).
+- Offline support with encrypted local storage and caching (MMKV/AsyncStorage).
 - Firebase Firestore sync and user authentication.
+
 ### Images and Video:
+
 <p align="center">
-  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105630_My_Priorities.png" height="300" alt="img_01" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105632_My_Priorities.png" height="300" alt="img_02" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105701_My_Priorities.png" height="300" alt="img_03" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105730_My_Priorities.png" height="300" alt="img_04" />
-  <img src="imagesAndVideos/myPriorities/Screenshot_20251109-105734_My_Priorities.png" height="300" alt="img_06" />
-  <a href="https://youtu.be/PTFM58bcLB0">
+  <img src="imagesAndVideos/myPriorities/001.png" height="300" alt="img_01" />
+  <img src="imagesAndVideos/myPriorities/002.png" height="300" alt="img_02" />
+  <img src="imagesAndVideos/myPriorities/003.png" height="300" alt="img_03" />
+  <img src="imagesAndVideos/myPriorities/004.png" height="300" alt="img_04" />
+  <img src="imagesAndVideos/myPriorities/005.png" height="300" alt="img_05" />
+  <img src="imagesAndVideos/myPriorities/006.png" height="300" alt="img_06" />
+  <a href="https://www.youtube.com/shorts/tnsJoVOPMWs">
     <img src="imagesAndVideos/myPriorities/video_01.png" height="300" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=bUVSf8klLgc">
+    <img src="imagesAndVideos/myPriorities/007.png" height="300" />
   </a>
 </p>
 
+**Website:** https://my-priorities-mobile-app.web.app/
+
 ## 3DPrinting - Landing Page Website for Business
+
 - Website: https://findingshrek.github.io/3DPrintingLandingPage/
 - Source Code : https://github.com/FindingShrek/3DPrintingLandingPage
-### Tech Stack Used: 
--  React
--  JavaScript
--  Vue
--  Tailwind CSS
+
+### Tech Stack Used:
+
+- React
+- JavaScript
+- Vue
+- Tailwind CSS
+
 ### Description
+
 - Responsive landing page optimized for all devices (mobile, tablet, desktop).
 
 ## Scheduling System
+
 - Source Code: https://github.com/FindingShrek/CalendarApointment
-### Tech Stack Used: 
+
+### Tech Stack Used:
+
 - vb.net
+
 ### Description
+
 - Task Management: From the presented interface users can create, modify, delete, as well as prioritize tasks.
 - Appointment Scheduling: One is able to make and manage appointments with the help of a calendar view.
 - Reminders: Ssending email reminder.
 - Database Connectivity: User information, tasks and appointments stored in MS. Access Server which is useful for future use.
+
 ### Images and Video:
+
 <p align="center">
   <img src="imagesAndVideos/schedulingSystem/image_01.png" height="200" alt="img_01" />
   <img src="imagesAndVideos/schedulingSystem/image_02.png" height="200" alt="img_02" />
@@ -95,11 +126,16 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 </p>
 
 ## Screen Recorder - Desktop
+
 - Source Code: https://github.com/FindingShrek/ScreenRecorder_Python
-### Tech Stack Used: 
--  Python
--  PyQt5
+
+### Tech Stack Used:
+
+- Python
+- PyQt5
+
 ### Advantages:
+
 - User-Friendly Interaction: GUIs provide a more intuitive and user-friendly way for users to interact with your application compared to other screen recorders that need to set up or customize the settings before they can record smoothly.
 - Ease of Use: it only has one button for start recording and stop recording that even child can use it or elders that is not familiar with today’s technology.
 - Cross-Platform Compatibility: Many GUI frameworks for Python, such as Tkinter and PyQt, are cross-platform, meaning your application can run on different operating systems without major modifications.
@@ -107,6 +143,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Open-source: Open-source applications typically have their source code available for inspection by anyone. This transparency allows users to understand how the software works, which builds trust and fosters collaboration. In contrast, closed-source applications keep their source code proprietary, limiting users' ability to verify the software's behavior or security.
 
 ### Disadvantages:
+
 - Platform Differences: Despite cross-platform compatibility, there may still be subtle differences in the behavior and appearance of application on different operating systems, requiring additional testing and optimization.
 - Focused Functionality: only function to record a screen, cannot capture a device sound and don’t have a microphone. Unlike other applications, this app cannot customize what microphone to use or what sounds to capture.
 - Unoptimized Frame Rate: creating applications by using Python Language is a bad option because of its slow performance, primarily due to its dynamic nature and versatility.
@@ -114,6 +151,7 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 - Minimalist UI: it does not have an impact to user or not that attractive for user because of limited functionality and usage.
 
 ### Images and Video:
+
 <p align="center">
   <img src="imagesAndVideos/screenRecorder/image_01.png" height="200" alt="img_01" />
   <img src="imagesAndVideos/screenRecorder/image_02.png" height="200" alt="img_02" />
