@@ -33,14 +33,16 @@ This repo is for showcasing my personal projects and documenting the tools, tech
 ### Images and Video:
 
 <p align="center">
-  <img src="imagesAndVideos/myPriorities/001.png" height="300" alt="img_01" />
-  <img src="imagesAndVideos/myPriorities/002.png" height="300" alt="img_02" />
-  <img src="imagesAndVideos/myPriorities/003.png" height="300" alt="img_03" />
-  <img src="imagesAndVideos/myPriorities/004.png" height="300" alt="img_04" />
-  <img src="imagesAndVideos/myPriorities/005.png" height="300" alt="img_05" />
-  <img src="imagesAndVideos/myPriorities/006.png" height="300" alt="img_06" />
-  <a href="https://www.youtube.com/watch?v=bUVSf8klLgc">
-    <img src="imagesAndVideos/myPriorities/007.png" height="300" />
+  <img src="imagesAndVideos/rescueMe/prototype.png" height="300" alt="Prototype_1" />
+  <img src="imagesAndVideos/rescueMe/prototype2.png" height="300" alt="Prototype_2" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250515-062954_Permission_controller.png" height="300" alt="app_01" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120521_Photos.png" height="300" alt="app_02" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120531_Photos.png" height="300" alt="app_03" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120550_Photos.png" height="300" alt="app_04" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120600_Photos.png" height="300" alt="app_05" />
+  <img src="imagesAndVideos/rescueMe/Screenshot_20250721-120606_Photos.png" height="300" alt="app_06" />
+  <a href="https://www.youtube.com/shorts/BjV5wS_tZSg">
+    <img src="imagesAndVideos/rescueMe/imageRescueMe.png" height="300" />
   </a>
 </p>
 
